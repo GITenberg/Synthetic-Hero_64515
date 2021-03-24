@@ -1,0 +1,39 @@
+_repo: Synthetic-Hero_64515
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, H. B. (Herman B.)
+    - Beeson
+    - Vestal, Herman Beeson
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Fennel, Erik
+    alias: Fennel, Erick
+    gutenberg_agent_id: '52673'
+    url: http://www.gutenberg.org/2009/agents/52673
+description: ''
+gutenberg_issued: '2021-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Diseases -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Synthetic Hero
+url: http://www.gutenberg.org/ebooks/64515
